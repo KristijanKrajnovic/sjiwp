@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiny5+Duo:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    background-color: #fbf8cc;
+    color: #977290;
+    font-family: "Tiny5 Duo", sans-serif;
+    text-align:center ;
+}
+h1{
+    color: #CFBAF0;
+    font-size: xx-large;
+    text-align:center ;
+    letter-spacing: 3px;
+}
+h2{
+    color: #CFBAF0;
+    text-align:center ;
+}
+h3{
+    text-align:center ;
+}
+h4{
+    text-align:center ;
+}
+h5{
+    text-align:left ;
+}
+a{
+    color: #a3C4F3;
+    text-decoration: none;
+    font-size: larger;
+}
+p{
+    line-height:1.6;
+    text-align:left ;
+}
+ul{
+    text-align:left ;
+}
+dl{
+    text-align:left ;
+}
